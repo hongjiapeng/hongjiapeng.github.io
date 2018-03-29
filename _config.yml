@@ -55,17 +55,17 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
+# Disqus（https://  disqus.com/）
 # disqus_username: hongjiapeng
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: a926f7a7f138792db6aa                            #生成的clientID
+  clientSecret: 64a296c21941656f4c847cc917a812a6e6d62a89    #生成的clientSecret
+  repo: hongjiapeng.github.io    #仓库名称
+  owner: hongjiapeng    #github用户名
+  admin: hongjiapeng
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -73,11 +73,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: e96da2b5d5f4bc43f85602e336fa2668
 
 # Google Analytics
-# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-116573771-1'            # Format: UA-xxxxxx-xx
+ga_domain: iotlab.xin               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
