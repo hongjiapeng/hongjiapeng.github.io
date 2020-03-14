@@ -7,10 +7,6 @@ author:     JP
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
-    - out参数
-    - ref参数
-    - params参数
-    - LINQ
     
 ---
 

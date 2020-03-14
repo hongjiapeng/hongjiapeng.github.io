@@ -8,7 +8,6 @@ header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - WPF
-    - TextBox
     
 ---
 
@@ -28,9 +27,7 @@ tags:
 
 ```
 
-
 ###### cs code：
-
 
 ```
  private void TextBox_PreviewTextInput(object sender, System.Windows.Input.TextCompositionEventArgs e)
@@ -38,10 +35,6 @@ tags:
     e.Handled = new System.Text.RegularExpressions.Regex("[^0-9]+").IsMatch(e.Text);
  }
 ```
-
----
-
-
 
 
 
