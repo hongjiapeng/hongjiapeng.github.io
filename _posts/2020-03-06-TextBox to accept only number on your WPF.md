@@ -1,14 +1,13 @@
 ---
-layout:     post
-title:      WPF TextBox
+layout: post
+title: WPF TextBox
 subtitle:   
-date:       2020-03-06
-author:     hongjiapeng
-header-img: img/post-bg-debug.png
+date:   2020-03-06
+author: JP
+header-img: img/post-bg-debug.jpg
 catalog: true
 tags:
-    - WPF
-    
+- WPF
 ---
 
 > How you can allow TextBox to accept only number on your WPF
