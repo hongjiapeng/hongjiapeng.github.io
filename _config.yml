@@ -77,7 +77,7 @@ ba_track_id: e96da2b5d5f4bc43f85602e336fa2668
 
 # Google Analytics
 ga_track_id: 'UA-116573771-1'            # Format: UA-xxxxxx-xx
-ga_domain: iotlab.xin               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
