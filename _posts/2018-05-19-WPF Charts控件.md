@@ -7,9 +7,7 @@ author: JP
 header-img: img/post-bg-swift.jpg
 catalog: true
 tags:
-- Chart
 - WPF
-- 自定义控件
 
 ---
 
