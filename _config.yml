@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: hongjiapeng@hotmail.com
 description: "Every failure is leading towards success."
 keyword: "JP, JP Blog, c#, wpf, uwp, hongjiapeng, android" #keyword
-url: "http://779979088.xyz"          # your host, for absolute URL
+url: "https://779979088.xyz"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hongjiapeng/hongjiapeng.github.io.git" # you code repository
 
