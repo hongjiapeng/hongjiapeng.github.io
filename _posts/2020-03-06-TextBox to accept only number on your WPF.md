@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How you can allow TextBox to accept only number on your WPF
+title: WPF's TextBox control only input number
 subtitle:   
 date:   2020-03-06
 author: JP
