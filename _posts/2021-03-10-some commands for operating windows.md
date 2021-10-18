@@ -25,3 +25,10 @@ get-physicaldisk
 ```
 dxdiag
 ```
+
+#### 彻底删除顽固文件的代码
+
+```
+DEL /F /A /Q \\?\%1
+RD /S /Q \\?\%1
+```
