@@ -25,3 +25,13 @@ get-physicaldisk
 ```
 dxdiag
 ```
+
+#### 操作文件夹
+
+```
+列出当前文件夹内的所有文件
+ls
+
+删除指定目录
+Remove-Item [folder path]
+```
