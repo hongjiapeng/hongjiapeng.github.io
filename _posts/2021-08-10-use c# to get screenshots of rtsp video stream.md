@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 使用C#和FFmpeg获取RTSP视频截图
+title: 使用C#和FFmpeg获取视频截图
 subtitle:   
 date:   2021-08-10
 author: JP
@@ -38,8 +38,30 @@ tags:
 -i 视频地址 -ss 第几帧 -f image2 图片存放地址
 ```
 
+以管理员身份打开Windows Termal或者PowerShell或CMD,进入到ffmpeg.exe所在目录，在终端内输入一下命令：
+```
+.\ffmpeg -i D:\bin\video.mp4 -ss 1 -f image2 D:\bin\1.jpg
+```
+
+执行后，看到下面的结果
+
+![转换完成](/static/posts/2021-10-28_10-39-12.png) 
 
 
+![转换成功图片](/static/posts/2021-10-28_17-39-12.png)
+
+### 使用c#封装此命令
+
+```
+ using (System.Diagnostics.Process process = new SystemDiagnostics.Process())
+ {
+     process.StartInfo.FileName = ffmpegPath;
+     process.StartInfo.Arguments = $@"-i {url} -ss 1 -f image2 {localImagePath}";
+     process.Start();
+ }
+```
+
+其中url既可以是本地的视频路径，也可以是一个rtsp视频流地址
 
 参考：
 
