@@ -25,7 +25,7 @@ Nuget包的本质是一个以.nupkg为后缀名的zip压缩文件，其中包含
 
 ![img](https://docs.microsoft.com/zh-cn/nuget/media/nuget-roles.png)
 
-## Nuget是什么
+## 
 
 
 
@@ -34,5 +34,6 @@ Nuget包的本质是一个以.nupkg为后缀名的zip压缩文件，其中包含
 
 参考：
 
+- [NuGet Gallery | Home](https://www.nuget.org/)
 - [NuGet 简介](https://docs.microsoft.com/zh-cn/nuget/what-is-nuget)
 - [NuGet是什么？理解与使用（上）](https://zhuanlan.zhihu.com/p/36207092)

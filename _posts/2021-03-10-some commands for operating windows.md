@@ -26,6 +26,17 @@ get-physicaldisk
 dxdiag
 ```
 
+#### 操作文件
+
+一、建立空文件的几种方式
+
+- cd . > a.txt
+- copy nul a.txt
+- type nul > a.txt
+- echo a 2> a.txt
+- fsutil file createnew d:\a.txt 0
+
+
 #### 操作文件夹
 
 ```
@@ -42,3 +53,9 @@ Remove-Item [folder path]
 DEL /F /A /Q \\?\%1
 RD /S /Q \\?\%1
 ```
+
+
+
+参考：
+
+- [通过 Windows 命令行（CMD）创建文件](http://www.markjour.com/article/cmd-create-file.html)
