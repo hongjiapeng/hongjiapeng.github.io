@@ -46,3 +46,17 @@ Tomb Sweeping Day provides people with reminder to visit and care of the graves 
 清明节，译为：
 ① Tomb Sweeping Day
 ② The Qingming Festival
+
+**Day205 4.6晚读** 🌞
+
+Just like a star across my sky.
+Just like an angel off the page.
+You have appeared to my life.
+Feel like I'll never be the same.
+
+就像流星划过天际
+天使跃然纸上
+你来到我的世界
+从此与众不同
+
+
