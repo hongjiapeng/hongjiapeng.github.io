@@ -61,4 +61,9 @@ Feel like I'll never be the same.
 
 愿得一人心，白首不分离，晚安~
 
+**Day206 4.7早读** 🌞
 
+Before you judge someone,before you write them off,take the time to put yourself in their shoes and see how it feels.
+
+在你评价一个人之前，在你否定一个人之前，且慢下脚步，站在他们的角度看看是什么感受。
+不要轻易评价一个人，因为你没有经历过他的人生。
