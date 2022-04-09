@@ -73,3 +73,10 @@ Before you judge someone,before you write them off,take the time to put yourself
 Nothing comforts anxiety like a little nostalgia.
 
 没有什么比怀旧更能够舒缓焦虑的了
+
+**Day208 4.9早读** 🌞
+
+For years,and years,everybody's desperately afraid to be different.And then,suddenly,almost overnight,everybody wants to be different.And that is where we win.
+
+长期以来，人们都害怕不同。直到有一天，一切变得不同，人们开始追求差异，保持自我，胜利就不远了。
+不忘初心，坚持真我.💪
