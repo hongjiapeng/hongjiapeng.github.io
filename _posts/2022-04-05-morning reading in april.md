@@ -86,3 +86,14 @@ For years,and years,everybody's desperately afraid to be different.And then,sudd
 Not all to control.Just as not all wish to be free.
 
 并不是所有的人都寻求控制，就像不是所有人都希望获得自由一样。
+
+**Day210 4.11早读** 🌞
+
+Bees don't waste their time explaining to files why honey is better than shit.
+
+蜜蜂🐝不会浪费时间去向苍蝇🪰解释，蜂蜜🍯为什么好过粪便💩
+
+燕雀安知鸿鹄之志哉
+
+永远不要跟不懂你的人解释什么
+
