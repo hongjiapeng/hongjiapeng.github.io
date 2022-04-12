@@ -97,3 +97,9 @@ Bees don't waste their time explaining to files why honey is better than shit.
 
 永远不要跟不懂你的人解释什么
 
+**Day211 4.12早读** 🌞
+
+I'd rather be hated for who I am than waste it all giving a damn.You (had) better find out who your friends are in disguise.
+
+我宁愿因为做自己而被他人厌恶，也不想浪费时间在这些无关紧要的事情上。
+
