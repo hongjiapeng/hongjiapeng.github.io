@@ -103,3 +103,21 @@ I'd rather be hated for who I am than waste it all giving a damn.You (had) bette
 
 我宁愿因为做自己而被他人厌恶，也不想浪费时间在这些无关紧要的事情上。
 
+**Day212 4.13早读** 🌧
+
+Taking initiative pay off.It is hard to visualize as a leader if she is always waiting to be told what to do.
+
+采取主动是会有回报的。如果一个人总是等着别人告诉Ta该怎么做，那你很难会把Ta想象成一个领导。
+
+**Day213 4.14早读** 🌧
+
+It's always the way with events in life.No sooner have you got settled,than a voice cries,"Rise and move on!"
+
+人生总是诸事不断。一旦你生活安定，便有声音督促你前行。
+
+**Day214 4.15早读** 🌞
+
+Goodness is not goodness that seeks advantage.Good is good in the final hour,in the deepest pit,without hope,without witness,without reward.Virtue is only virtue in extremis.
+
+一旦寻求好处，善良便已不在。善良独存于最后的时刻，在深渊极底，没有希望，没有见证，没有回报，绝境中方显美德。
+
