@@ -121,3 +121,8 @@ Goodness is not goodness that seeks advantage.Good is good in the final hour,in 
 
 一旦寻求好处，善良便已不在。善良独存于最后的时刻，在深渊极底，没有希望，没有见证，没有回报，绝境中方显美德。
 
+**Day215 4.16早读** ⛅
+
+(It's)Better to lose a lover than (to) love a loser.
+
+宁可失去一个爱人，也不要爱一个失败者。
