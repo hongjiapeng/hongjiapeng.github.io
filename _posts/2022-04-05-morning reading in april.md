@@ -126,3 +126,28 @@ Goodness is not goodness that seeks advantage.Good is good in the final hour,in 
 (It's)Better to lose a lover than (to) love a loser.
 
 宁可失去一个爱人，也不要爱一个失败者。
+
+**Day216 4.17早读** 🌞
+
+Land is the only thing in the word worth working for,worth fighting for,worth dying for.Because it's the only thing that lasts.
+
+世界上只有土地才值得为它耕耘，为它战斗，为它去死。因为只有它才是永恒的。
+
+**Day217 4.18早读** ☁️
+
+The greatest originals are the ones who fail the most,'cause they're the ones who try the most.
+
+最伟大的原创者是失败过最多的人，因为他们是尝试过最多的人。
+
+**Day218 4.19早读** ⛅
+
+Did we both fall in love before we were ready?
+Or did we both give up before we were steady?
+I don't know.I don't know.
+All I know is that now I'm alone.
+
+我们是否未曾做好准备就深陷爱河？
+亦或是未待感情稳定便分道扬镳？
+我毫无头绪。
+只知此刻我孑然孤身。
+
