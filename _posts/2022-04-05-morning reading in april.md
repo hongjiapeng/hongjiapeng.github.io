@@ -151,3 +151,78 @@ All I know is that now I'm alone.
 我毫无头绪。
 只知此刻我孑然孤身。
 
+**Day219 4.20早读** ⛅
+
+I can’t change what’s already happened. So there’s no value in wishing it were different.
+
+既然自己无法改变已经发生的事情，那么希望一切重新来过是没有意义的。
+
+**Day220 4.21早读** 🌞
+
+Tough times create strong men.
+
+Strong men create easy times.
+
+Easy time create weak men.
+
+Weak men create tough times.
+
+艰难时代造就勇者，勇者开创安逸时代。安逸时代产生弱者，弱者重返艰难时代。孤勇者，克时艰。
+
+**Day221 4.22早读** ⛅🌧️
+
+Just because it’s the path of least resistance doesn’t mean it’s the wrong path.
+
+最轻松的路，不一定时错误的路。
+
+**Day222 4.23早读** 🌧️☁️
+
+Love isn’t about grand gestures, or the moon and stars. It’s just dumb luck.
+
+爱不是大场面，也不是月亮或星星，而是偶然的运气。
+
+**Day223 4.24早读** ⛅☁️
+
+Do what  you have to to be happy in this life. There is so much beauty.
+
+人生多美好，今生要做令自己开心的事。
+
+**Day224 4.25早读** 🌧
+
+Don’t hold on to your dreams. Hold on to yourself.
+
+不要执着于梦想，而应该坚持自己。
+
+**Day225 4.26早读** 🌧
+
+Lights will guide you home.
+
+And ignite your bones.
+
+And I will try to fix you.
+
+光将指引你家的方向，从内而外的温暖你，而我也将治愈你。
+
+**Day226 4.27早读** ⛅
+
+Think of stumbling blocks as stepping stones and never stop writing.
+
+把绊脚石看成垫脚石，永远不要停止书写自己的故事。
+
+**Day227 4.28早读** ⛅
+
+There’re seven billion people one the planet. I know one of them is gonna climb up on a moon for you.
+
+地球上有70亿人，总有一个人愿意为你爬上月亮。
+
+**Day228 4.29早读** ⛅
+
+If you just focus on the work and you don't let those people sidetrack you, someday when you get where you're going, you will know that it was you and the people who love you who put you there.
+
+终有一天当你达成目标，你就会知道，是你和那些爱你的人成就了你
+
+**Day229 430早读** ☁️
+
+Constantly talking isn’t necessarily communicating.
+
+不停地说话不一定是交流。

@@ -106,4 +106,4 @@ public class MyService : IMyService
 ```
 
 
-转载自：https://www.andicode.com/prism/wpf/logging/2021/05/21/Logging-In-Prism.html
+翻译👉 [Logging-In-Prism](https://www.andicode.com/prism/wpf/logging/2021/05/21/Logging-In-Prism.html)
