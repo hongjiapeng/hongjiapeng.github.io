@@ -13,9 +13,11 @@ tags:
 
 ## Nuget是什么
 
-如果你了解python，那么它类似pip
+如果你了解java，那么它类似maven
 
 如果你了解python，那么它类似pip
+
+如果你了解nodejs，那么它类似npm
 
 如果你了解ruby，那么它类似gem
 
@@ -24,6 +26,7 @@ tags:
 Nuget包的本质是一个以.nupkg为后缀名的zip压缩文件，其中包含了编译后的Dll，与该代码相关的其他文件以及描述性清单（包含包版本号等信息）等。下图显示nuget包从创建，上传到被使用的流程。
 
 ![img](https://docs.microsoft.com/zh-cn/nuget/media/nuget-roles.png)
+
 
 
 
