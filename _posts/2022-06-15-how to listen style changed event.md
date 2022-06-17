@@ -2,7 +2,7 @@
 layout: post
 title: 如何监听JS中某一元素样式改变事件
 subtitle:   
-date:   2002-04-05
+date:   2022-06-15
 author: JP
 header-img: img/post-bg-coffee.jpeg
 catalog: true
