@@ -25,4 +25,4 @@ observer.observe(target, { attributes : true, attributeFilter : ['style'] });
 
 Reference:<br>
 
-- https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver#MutationRecord
+- [Web API Doc](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver#MutationRecord)
