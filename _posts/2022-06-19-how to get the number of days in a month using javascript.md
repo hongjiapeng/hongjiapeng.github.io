@@ -7,7 +7,7 @@ author: JP
 header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
-- java script
+- Java Script
 
 ---
 

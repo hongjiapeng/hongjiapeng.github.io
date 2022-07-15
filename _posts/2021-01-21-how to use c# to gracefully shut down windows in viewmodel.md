@@ -9,15 +9,16 @@ catalog: true
 tags:
 - C#
 - WPF
+- MVVM
 ---
 
 >前言
 
-当你在使用MVVM设计模式开发WPF应用程序时，第一条 **原则** 就是 **“ViewModel中没有UI元素”**，也就是UI与业务逻辑分离，以便于后期即使要修改UI，也无需更改ViewModel。好吧，如果不允许我们在ViewModel中使用UI元素，那么到底如何从ViewModel中关闭窗口呢？这时候就需要充分利用面向接口编程的优势了。
+当你在使用MVVM设计模式开发应用程序时，第一条 **原则** 就是 **“ViewModel中没有UI元素”**，也就是UI与业务逻辑分离，以便于后期即使要修改UI，也无需更改ViewModel。好吧，如果不允许我们在ViewModel中使用UI元素，那么到底如何从ViewModel中关闭窗口呢？这时候就需要充分利用面向接口编程的优势了。
 
 >正文
 
-这篇Blog将教您如何利用接口的优势，怎样从ViewModel中抽象出Window对象，并且仍然能够从ViewModel中关闭Windows。
+这篇Blog将教您如何利用接口的优势，从ViewModel中抽象出Window对象，并且仍然能够从ViewModel中关闭Windows。
 
 不仅如此，我们还可以利用抽象的优点，在ViewModel中使用业务逻辑，甚至在单击Window的关闭按钮（Window顶部右角的X）时也可以防止Window关闭。
 
@@ -105,7 +106,7 @@ MainWindow的ViewModel定义如下：
 
 接着我们在MainWindow的后台，窗体的Loaded事件中，先判断当前窗口的DataContext是不是ICloseWindows，由于我们在Window的Xaml代码中指定了当前Window的ViewModel，并且ViewModel继承自ICloseWindows。所以当窗体加载的时候，会注册ViewModel的Close委托，以及当前窗口的Closing事件。
 
-当点击窗口中的 “关闭”按钮时，首先会执行ViewModel中定义的Close委托的匿名方法，关闭当前窗口，接着会触发当前窗口的Closing事件，会执行e.Cancel=!vm.CanClose();这一行代码，所以，我们就可以在ViewModel中通过设置CanClose()方法控制当前窗口是否允许关闭了。
+当点击窗口中的 “关闭” 按钮时，首先会执行ViewModel中定义的Close委托的匿名方法，关闭当前窗口，接着会触发当前窗口的Closing事件，会执行 ``` e.Cancel=!vm.CanClose(); ``` 这一行代码，所以，我们就可以在 ViewModel 中通过设置 CanClose() 方法来控制当前窗口是否允许关闭了。
 
 ```cs
 using System.Windows;
@@ -144,10 +145,11 @@ namespace CloseWindowMvvm
 
 ```
 
-到这里，你会发现，没有在ViewModel中直接引用UI元素，也没有直接依赖ViewModel，真正做到了解耦，是不是感觉得很amazing。
+到这里，你会发现，没有在 ViewModel 中直接引用UI元素，也没有直接依赖ViewModel，真正做到了解耦，是不是感觉得很amazing。<br/>
+我们终于实现了我们想要的效果，但如果我有多个窗口，那我就需要在每个窗口的VM中写一遍上述的代码，很重复。有没有一种方式把业务逻辑相同的代码拿来复用呢，答案是有的，这时候就可以考虑下 [附加属性](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/properties/attached-properties-overview?view=netdesktop-6.0) 了。
 
 
-##### 利用附加属性进一步优化
+>利用附加属性进一步优化
 
 新建一个叫WindowCloser的类，并在此类中添加一个附加属性
 
@@ -215,7 +217,7 @@ namespace CloseWindowMvvm
 ```
 
 
-MainWindow的后台代码中，只留下下图所示代码，其余的全部删除掉
+MainWindow的后台代码中，恢复到默认创建MainWindow类时的样子。只留下下图所示代码，其余的全部删除掉
 
 >MainWindow.cs
 
@@ -245,7 +247,9 @@ namespace CloseWindowMvvm
 
 
 
-###### 感谢
+感谢
+
+[Attached properties](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/properties/attached-properties-overview?view=netdesktop-6.0)
 
 [Prism](https://github.com/PrismLibrary/Prism)
 

@@ -65,5 +65,5 @@ tags:
 
 参考：
 
-- https://ffmpeg.org/ffmpeg.html#Main-options
-- http://underpop.online.fr/f/ffmpeg/help/image2-1.htm.gz
+- [5.4 Main options](https://ffmpeg.org/ffmpeg.html#Main-options)
+- [image2](http://underpop.online.fr/f/ffmpeg/help/image2-1.htm.gz)

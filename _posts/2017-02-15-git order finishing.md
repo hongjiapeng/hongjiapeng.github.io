@@ -12,7 +12,7 @@ tags:
 
 >随便整理的一些自用的Git指令
 
-# 码云创建Git仓库
+# 创建Git仓库
 
 #### Git全局设置：
 
@@ -27,13 +27,13 @@ tags:
 	touch README.md
 	git add README.md
 	git commit -m "first commit"
-	git remote add origin https://gitee.com/码云用户名/项目名.git
+	git remote add origin https://github.com/username/projectname.git
 	git push -u origin master
 
 #### 已有项目
 
 	cd existing_git_repo
-	git remote add origin https://gitee.com/码云用户名/项目名.git
+	git remote add origin https://github.com/username/projectname.git
 	git push -u origin master
 
 # GitHub创建仓库提示代码

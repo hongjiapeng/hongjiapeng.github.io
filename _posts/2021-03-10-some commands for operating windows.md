@@ -2,7 +2,7 @@
 layout: post
 title: 一些操作Windows系统的命令
 subtitle:   
-date:   2020-03-10
+date:   2022-03-10
 author: JP
 header-img: img/post-bg-coffee.jpeg
 catalog: true

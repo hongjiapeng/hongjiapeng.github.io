@@ -46,6 +46,10 @@ gitlab git@gitlab.com:xxx/gittest.git (fetch)
 
 这样一来，本地库就可以同时与多个远程库互相同步了。
 
-参考：https://blog.csdn.net/xukai0110/article/details/80637902
+
+Reference:<br>
+
+[Git使用方法（精心整理，基本够用）](https://blog.csdn.net/xukai0110/article/details/80637902)
+
 
 
