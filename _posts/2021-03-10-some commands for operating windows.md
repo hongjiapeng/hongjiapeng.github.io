@@ -54,7 +54,37 @@ DEL /F /A /Q \\?\%1
 RD /S /Q \\?\%1
 ```
 
+#### 查看连接过WIFI的名称
 
+```
+netsh wlan show profiles
+```
+
+#### 查看连接过WIFI的密码
+
+通过执行 ``` netsh wlan show profiles ``` 命令，可以查看已连接过的WIFI名称。<br/> 如下图，可以看到，我这台电脑连接过3个WIFI设备(包括手机热点)
+
+```
+接口 WLAN 上的配置文件:
+
+
+组策略配置文件(只读)
+---------------------------------
+    <无>
+
+用户配置文件
+-------------
+    所有用户配置文件 : iPhone
+    所有用户配置文件 : TP-LINK_C001
+    所有用户配置文件 : Linux_5G
+```
+
+
+输入 ``` netsh wlan show profiles WiFi名称 key=clear ``` <br/>
+
+（如：netsh wlan show profiles Linux_5G key=clear）可查看该WiFi名称的详细信息，包括该WiFi的密码（关键内容后的就是WiFi密码）。如下图所示：
+
+![](https://raw.githubusercontent.com/hongjiapeng/PicGoRes/main/img/notes/202207151809263.png)
 
 参考：
 
