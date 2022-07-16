@@ -56,11 +56,12 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
+# disqus_username 是Shortname!!! 在Disqus内的Admin的Setting(在header bar)，点你的网站，点General，接着右手边有Shortname
 disqus_username: hongjiapeng-github-io
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 9214569958517b37cf25                            #生成的clientID
   clientSecret: b4efcbce2cb2b5b182ee03e865878c1e022c14f4    #生成的clientSecret
   repo: hongjiapeng.github.io    #仓库名称
