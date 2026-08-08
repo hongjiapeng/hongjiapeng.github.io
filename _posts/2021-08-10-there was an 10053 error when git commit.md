@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Git 提交错误10053
-subtitle:   
-date:   2021-08-10
+description:
+date: 2021-08-10
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - Git
 ---
@@ -24,6 +24,3 @@ git config --global http.postBuffer 524288000
 ```
 git config --global http.sslVerify false
 ```
-
-
-

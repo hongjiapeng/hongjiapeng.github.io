@@ -1,11 +1,11 @@
 ---
 layout: post
 title: C#枚举和字符串的相互转换
-subtitle:   
-date:   2019-03-28
+description:
+date: 2019-03-28
 author: JP
-header-img: img/post-bg-ioses.jpg
-catalog: true
+image: /img/post-bg-ioses.jpg
+toc: true
 tags:
 - C#
 ---

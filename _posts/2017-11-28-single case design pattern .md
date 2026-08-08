@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  单例设计模式
-subtitle: 	
-date:   2017-11-28
+description:
+date: 2017-11-28
 author: JP
-header-img: img/post-bg-swift.jpg
-catalog: true
+image: /img/post-bg-swift.jpg
+toc: true
 tags:
 - 面试题
 

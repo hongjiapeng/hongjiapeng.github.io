@@ -1,11 +1,11 @@
 ---
 layout: post
 title: MSIX是什么？
-subtitle:   
-date:   2020-07-10
+description:
+date: 2020-07-10
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - MSIX
 

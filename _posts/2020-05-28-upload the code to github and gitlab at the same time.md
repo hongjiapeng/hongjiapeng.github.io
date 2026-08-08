@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 将代码同时上传到github和gitlab
-subtitle:   
-date:   2020-05-27
+description:
+date: 2020-05-27
 author: JP
-header-img: img/post-bg-kuaidi.jpg
-catalog: true
+image: /img/post-bg-kuaidi.jpg
+toc: true
 tags:
 - Git
 ---
@@ -50,6 +50,3 @@ gitlab git@gitlab.com:xxx/gittest.git (fetch)
 Reference:<br>
 
 [Git使用方法（精心整理，基本够用）](https://blog.csdn.net/xukai0110/article/details/80637902)
-
-
-

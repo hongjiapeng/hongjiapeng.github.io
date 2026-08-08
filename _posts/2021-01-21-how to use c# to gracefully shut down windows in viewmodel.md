@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 如何使用C#优雅地在ViewModel中关闭Windows
-subtitle:   
-date:   2021-01-22
+description:
+date: 2021-01-22
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - C#
 - WPF
@@ -252,4 +252,3 @@ namespace CloseWindowMvvm
 [Attached properties](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/properties/attached-properties-overview?view=netdesktop-6.0)
 
 [Prism](https://github.com/PrismLibrary/Prism)
-

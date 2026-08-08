@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  输错三次密码禁止登陆，15分钟后才能继续。
-subtitle: 登录限制
+description: 登录限制
 date:   2017-09-24
 author: JP
-header-img: img/home-bg-o.jpg
-catalog: true
+image: /img/home-bg-o.jpg
+toc: true
 tags:
 
 ---

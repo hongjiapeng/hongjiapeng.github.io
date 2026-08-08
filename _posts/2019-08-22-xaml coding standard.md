@@ -1,11 +1,11 @@
 ---
 layout: post
 title: XAML编码规范
-subtitle:   
-date:   2019-07-24
+description:
+date: 2019-07-24
 author: JP
-header-img: img/post-bg-swift.jpg
-catalog: true
+image: /img/post-bg-swift.jpg
+toc: true
 tags:
 - 编码规范
 ---
@@ -102,4 +102,3 @@ Grid.Column / Grid.Row属性就是典型的例子
 Reference: 
 - [XAML Coding guidelines](https://github.com/cmaneu/xaml-coding-guidelines)<br>
 - [XamlStyler](https://github.com/Xavalon/XamlStyler)
-

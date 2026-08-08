@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 优秀程序员必看的书单
-subtitle: 
-date:   2011-11-02
+description:
+date: 2011-11-02
 author: fenghuaonline&JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - 书单
 ---

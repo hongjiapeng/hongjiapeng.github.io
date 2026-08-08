@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 3月早读
-subtitle:   早读原文
+description: 早读原文
 date:   2022-03-31
 author: JP
-header-img: img/post-bg-swift.jpg
-catalog: true
+image: /img/post-bg-swift.jpg
+toc: true
 tags:
 - 英语早读
 

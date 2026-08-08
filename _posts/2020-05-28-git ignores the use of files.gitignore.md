@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Git忽略文件.gitignore的使用
-subtitle:   
-date:   2018-05-27
+description:
+date: 2018-05-27
 author: 唯夜
-header-img: img/post-bg-kuaidi.jpg
-catalog: true
+image: /img/post-bg-kuaidi.jpg
+toc: true
 tags:
 - Git
 ---
@@ -153,5 +153,3 @@ bin/gen/
 
 [https://github.com/github/gitignore]: https://github.com/github/gitignore
 [https://github.com/github/gitignore/blob/master/Java.gitignore]: https://github.com/github/gitignore/blob/master/Java.gitignore
-
-

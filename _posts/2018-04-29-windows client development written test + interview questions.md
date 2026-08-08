@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Windows客户端开发笔试+面试题
-subtitle: 面试题目
+description: 面试题目
 date:   2017-09-24
 author: JP
-header-img: img/home-bg-o.jpg
-catalog: true
+image: /img/home-bg-o.jpg
+toc: true
 tags:
 - 面试题
 

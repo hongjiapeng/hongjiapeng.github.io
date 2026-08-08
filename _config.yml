@@ -1,108 +1,116 @@
-# Site settings
+# Site configuration for JP Blog
+
+theme: jekyll-theme-chirpy
+
+lang: zh-CN
+timezone: Asia/Shanghai
+
 title: JP Blog
-SEOTitle: HJP的博客 | JP Blog
-header-img: img/home-bg.jpg
-email: hongjiapeng@hotmail.com
-description: "Every failure is leading towards success."
-keyword: "JP, JP Blog, c#, wpf, uwp, hongjiapeng, android" #keyword
-url: "https://779979088.xyz"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/hongjiapeng/hongjiapeng.github.io.git" # you code repository
+tagline: Windows Developer 的技术记录
+description: >-
+  JP 的个人技术博客，记录 C#、.NET、WPF、UWP、WinUI、MSIX 以及 Windows 开发实践。
 
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+url: "https://hongjiapeng.github.io"
+baseurl: ""
 
+# Keep the old Jekyll pretty URLs so existing search results and bookmarks
+# remain valid after the theme migration.
+permalink: /:year/:month/:day/:title/
 
-# SNS settings
-RSS: false
-# weibo_username:     
-# zhihu_username:     hongjiapeng.vip    
-github_username:    hongjiapeng
-facebook_username:  
-jianshu_username:   
-#twitter_username:     
+github:
+  username: hongjiapeng
 
+social:
+  name: JP
+  email: hongjiapeng@hotmail.com
+  links:
+    - https://github.com/hongjiapeng
 
+# Sidebar avatar. The image is kept from the previous blog.
+avatar: /img/avatar_m.jpg
 
+# Follow the visitor's system preference and allow manual light/dark switching.
+theme_mode:
 
-# Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-permalink: pretty
+# Enable the built-in table of contents, PWA support and pagination.
+toc: true
+pwa:
+  enabled: true
+  cache:
+    enabled: true
+
+# Comments are intentionally disabled until a public provider is configured.
+# Giscus is recommended for this GitHub Pages site:
+# https://giscus.app/
+comments:
+  provider:
+
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
+collections:
+  tabs:
+    output: true
+    sort_by: order
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
+      permalink: /:year/:month/:day/:title/
+  - scope:
+      path: "_drafts"
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
 
-# Gems
-# from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
-
-
-
-
-# Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
-markdown: kramdown
-highlighter: rouge
 kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
+  footnote_backlink: "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
+sass:
+  style: compressed
 
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username 是Shortname!!! 在Disqus内的Admin的Setting(在header bar)，点你的网站，点General，接着右手边有Shortname
-disqus_username: hongjiapeng-github-io
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
+  - README.md
+  - LICENSE
+  - purgecss.js
+  - "*.config.js"
+  - "package*.json"
 
-# Gitalk
-gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: 9214569958517b37cf25                            #生成的clientID
-  clientSecret: b4efcbce2cb2b5b182ee03e865878c1e022c14f4    #生成的clientSecret
-  repo: hongjiapeng.github.io    #仓库名称
-  owner: hongjiapeng    #github用户名
-  admin: hongjiapeng
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
-
-# 统计
-
-# Analytics settings
-# Baidu Analytics
-ba_track_id: e96da2b5d5f4bc43f85602e336fa2668
-
-# Google Analytics
-ga_track_id: 'UA-116573771-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
-
-
-
-
-# Featured Tags
-featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
-
-
-
-# Progressive Web Apps
-chrome-tab-theme-color: "#000000"
-service-worker: true
-
-
-
-# Friends
-friends: [
-    {
-        title: "Dog Spring",
-        href: "http://blog.codeseeker.me/"
-    },{
-        title: "Kiuber",
-        href: "http://blog.kiuber.me/"
-    }
-]
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/

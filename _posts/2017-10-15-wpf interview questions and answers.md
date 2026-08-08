@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      WPF基础
-subtitle:   WPF 基础面试题及答案
+description: WPF 基础面试题及答案
 date:       2017-10-15
 author:     JP
-header-img: img/post-bg-ios9-web.jpg
-catalog: true
+image: /img/post-bg-ios9-web.jpg
+toc: true
 tags:
     - 面试题
     
@@ -169,4 +169,3 @@ Visual继承UIElement,UIElement继承FrameworkElement,FrameworkElement继承Cont
 3 FrameworkElement的主要作用是为定义的WPF元素添加一些功能。例如，布局定义 逻辑树 对象生命周期事件  支持数据绑定和动态资源引用 支持样式和动画。
 
 4 Control的主要作用是为自定义应用程序控件提供基础。因为它是创建自定义应用程序控件的基类,作用就是可以重写Control类所提供的属性，方法，事件等，为自定义控件添加自定义逻辑。构建WPF应用程序页面的Window类也派生自它。
-

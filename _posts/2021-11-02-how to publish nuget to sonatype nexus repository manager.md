@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 如何将 Nuget 发布到 Sonatype Nexus Repository Manager 
-subtitle: 如何搭建私有的NuGet库
+description: 如何搭建私有的NuGet库
 date:   2011-11-02
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - Nuget
 - Maven

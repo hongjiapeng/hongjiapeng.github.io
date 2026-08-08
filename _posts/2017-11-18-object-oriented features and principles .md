@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  面向对象三大基本特性,五大基本原则
-subtitle: 	
-date:   2017-11-18
+description:
+date: 2017-11-18
 author: JP
-header-img: img/post-bg-swift.jpg
-catalog: true
+image: /img/post-bg-swift.jpg
+toc: true
 tags:
 - 面试题
 

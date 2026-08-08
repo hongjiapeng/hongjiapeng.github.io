@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 解决 VisualStudio 出现Error MC3000 给定编码中的字符无效问题
-subtitle:
-date:   2021-11-13
+description:
+date: 2021-11-13
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - Visual Studio
 - Error MC3000

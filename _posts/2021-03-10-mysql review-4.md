@@ -1,11 +1,11 @@
 ---
 layout: post
 title: MySQL复习宝典-4
-subtitle:   
-date:   2020-03-10
+description:
+date: 2020-03-10
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - 面试题
 - MySQL
@@ -311,4 +311,3 @@ alter table 表 modify column 字段名 字段类型 约束 auto_increment
 ```sql
 alter table 表 modify column 字段名 字段类型 约束 
 ```
-

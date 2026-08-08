@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 如何在 Prism 8 WPF 应用程序中注册日志服务
-subtitle:   
-date:   2021-10-27
+description:
+date: 2021-10-27
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - WPF
 - Prism

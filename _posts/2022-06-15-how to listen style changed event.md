@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 如何使用JS监听某一元素样式的变化
-subtitle:   
-date:   2022-06-15
+description:
+date: 2022-06-15
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - Java Script
 

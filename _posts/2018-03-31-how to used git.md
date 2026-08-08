@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      Git的使用
-subtitle:   Git的使用
+description: Git的使用
 date:       2018-04-04
 author:     JP
-header-img: img/post-bg-debug.png
-catalog: true
+image: /img/post-bg-debug.png
+toc: true
 tags:
     - Git
     

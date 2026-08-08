@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 陪你早读的 TeacherGwen
-subtitle:   早读原文
+description: 早读原文
 date:   2018-05-31
 author: JP
-header-img: img/post-bg-swift.jpg
-catalog: true
+image: /img/post-bg-swift.jpg
+toc: true
 tags:
 - 英语早读
 

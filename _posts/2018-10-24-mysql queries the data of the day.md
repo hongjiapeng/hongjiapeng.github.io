@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      MySQL查询当天当周当月的数据
-subtitle:   
-date:       2018-10-24
+description:
+date: 2018-10-24
 author:     郭新宇 
-header-img: img/post-bg-debug.png
-catalog: true
+image: /img/post-bg-debug.png
+toc: true
 tags:
     - MySQL
     
@@ -53,13 +53,3 @@ Refence：<br>
 2. [MySQL命名、设计及使用规范](https://www.biaodianfu.com/mysql-best-practices.html)<br>
 3. [mysql 查询今天、昨天、上月、本月的数据](https://blog.csdn.net/wangjuan_01/article/details/51726588?utm_source=blogxgwz1)<br>
 4. [mysql 查询当天当周当月的数据](https://blog.csdn.net/u010924845/article/details/51019483)<br>
-
-
-
-
-
-
-
-
-
-
