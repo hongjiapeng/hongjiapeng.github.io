@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  复旦大学情商课 陈果
-subtitle:   情商
+description: 情商
 date:   2018-02-10
 author: JP
-header-img: img/post-bg-swift.jpg
-catalog: true
+image: /img/post-bg-swift.jpg
+toc: true
 tags:
 
 

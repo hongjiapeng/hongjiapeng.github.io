@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      Tcp/Ip、Http、Socket的区别
-subtitle:   
-date:       2017-08-16
+description:
+date: 2017-08-16
 author:     JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
     - 网络协议
     
@@ -108,4 +108,3 @@ eg.视频通话、QQ聊天...<br>
 1. [TCP/IP、Http、Socket的区别](http://lib.csdn.net/article/computernetworks/20534)<br>
 2. [如何生动形象、切中要点地讲解 OSI 七层模型和两主机传输过程?](https://www.zhihu.com/question/24002080/answer/31817536)
 3. [OSI七层模型详解](https://blog.csdn.net/yaopeng_2005/article/details/7064869)
- 

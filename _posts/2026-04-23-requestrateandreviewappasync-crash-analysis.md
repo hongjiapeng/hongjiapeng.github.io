@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 调用 RequestRateAndReviewAppAsync 导致应用闪退：一个 try/catch 抓不住的崩溃
-subtitle: 当 C# 的 try/catch 完全失效时，如何排查和规避系统原生组件内部的 Access Violation
+description: 当 C# 的 try/catch 完全失效时，如何排查和规避系统原生组件内部的 Access Violation
 date: 2026-04-23
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - WPF
 - .NET

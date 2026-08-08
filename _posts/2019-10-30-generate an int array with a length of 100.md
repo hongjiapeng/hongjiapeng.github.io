@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 产生一个int数组，长度为100，并向其中随机插入1-100，并且不能重复
-subtitle:   
-date:   2019-10-30
+description:
+date: 2019-10-30
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - 算法
 ---

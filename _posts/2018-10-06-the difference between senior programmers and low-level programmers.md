@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 高级程序员和低级程序员的区别
-subtitle:   
-date:   2018-10-06
+description:
+date: 2018-10-06
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 
 

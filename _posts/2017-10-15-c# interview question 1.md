@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      C#基础知识整理
-subtitle:   
-date:       2017-10-15
+description:
+date: 2017-10-15
 author:     JP
-header-img: img/post-bg-ios9-web.jpg
-catalog: true
+image: /img/post-bg-ios9-web.jpg
+toc: true
 tags:
     - 面试题
     

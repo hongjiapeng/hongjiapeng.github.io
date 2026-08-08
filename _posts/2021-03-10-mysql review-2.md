@@ -1,11 +1,11 @@
 ---
 layout: post
 title: MySQL复习宝典-2
-subtitle:   
-date:   2020-03-10
+description:
+date: 2020-03-10
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - 面试题
 - MySQL
@@ -574,4 +574,3 @@ having 筛选         ⑥
 order by排序列表    ⑧
 limit 起始条目索引，条目数;  ⑨
 ```
-

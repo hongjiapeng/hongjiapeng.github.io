@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      Git 推送更新出现错误： Updates were rejected because the remote contains work that you do
-subtitle:   
-date:       2018-09-20
+description:
+date: 2018-09-20
 author:     JP
-header-img: img/post-bg-debug.png
-catalog: true
+image: /img/post-bg-debug.png
+toc: true
 tags:
     - Git    
     
@@ -39,5 +39,3 @@ git 提交的步骤： <br>
 
 
 OK!
-
-

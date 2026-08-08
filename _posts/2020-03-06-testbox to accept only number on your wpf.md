@@ -1,11 +1,11 @@
 ---
 layout: post
 title: WPF's TextBox control only input number
-subtitle:   
-date:   2020-03-06
+description:
+date: 2020-03-06
 author: JP
-header-img: img/post-bg-debug.jpg
-catalog: true
+image: /img/post-bg-debug.png
+toc: true
 tags:
 - WPF
 ---
@@ -34,7 +34,3 @@ tags:
     e.Handled = new System.Text.RegularExpressions.Regex("[^0-9]+").IsMatch(e.Text);
  }
 ```
-
-
-
-

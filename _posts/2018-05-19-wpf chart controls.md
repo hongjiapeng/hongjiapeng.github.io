@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 比较不错的开源WPF Chart控件
-subtitle:   Chart控件
+description: Chart控件
 date:   2018-05-18
 author: JP
-header-img: img/post-bg-swift.jpg
-catalog: true
+image: /img/post-bg-swift.jpg
+toc: true
 tags:
 - WPF
 

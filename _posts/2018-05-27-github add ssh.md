@@ -1,11 +1,11 @@
 ---
 layout: post
 title: GitHub设置添加SSH
-subtitle:   
-date:   2018-05-27
+description:
+date: 2018-05-27
 author: JP
-header-img: img/post-bg-swift.jpg
-catalog: true
+image: /img/post-bg-swift.jpg
+toc: true
 tags:
 - GitHub
 

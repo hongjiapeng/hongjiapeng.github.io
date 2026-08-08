@@ -1,11 +1,11 @@
 ---
 layout: post
 title: C# yield关键字
-subtitle:   
-date:   2019-07-24
+description:
+date: 2019-07-24
 author: JP
-header-img: img/post-bg-swift.jpg
-catalog: true
+image: /img/post-bg-swift.jpg
+toc: true
 tags:
 - C#关键字
 

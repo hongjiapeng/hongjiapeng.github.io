@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 如何使用 JavaScript 获取一个月中的天数
-subtitle:   
-date:   2022-06-15
+description:
+date: 2022-06-15
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - Java Script
 

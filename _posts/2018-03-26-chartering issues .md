@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      租船问题（小学四年级下册数学题）
-subtitle:   租船问题
+description: 租船问题
 date:       2018-03-26
 author:     JP
-header-img: img/post-bg-debug.png
-catalog: true
+image: /img/post-bg-debug.png
+toc: true
 tags:
     
 ---

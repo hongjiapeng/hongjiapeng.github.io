@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Record some forgettable attribute of TextBlock in xaml
-subtitle:   
-date:   2022-06-17
+description:
+date: 2022-06-17
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - XAML
 

@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      C#中return、break、continue的使用
-subtitle:   return、break、continue的使用
+description: return、break、continue的使用
 date:       2017-03-09
 author:     JP
-header-img: img/post-bg-debug.png
-catalog: true
+image: /img/post-bg-debug.png
+toc: true
 tags:
     - C#关键字
 ---

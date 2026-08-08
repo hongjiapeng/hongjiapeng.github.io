@@ -1,11 +1,11 @@
 ---
 layout: post
 title: WPF性能优化经验总结
-subtitle:   
-date:   2020-10-27
+description:
+date: 2020-10-27
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - WPF
 - 性能优化

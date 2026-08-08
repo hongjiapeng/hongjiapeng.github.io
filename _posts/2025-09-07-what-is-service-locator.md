@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Service Locator 是什么？
-subtitle: 理解 Service Locator 模式及其在现代 .NET 中被视为反模式的原因
+description: 理解 Service Locator 模式及其在现代 .NET 中被视为反模式的原因
 date: 2025-09-07
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - Service Locator
 - IoC

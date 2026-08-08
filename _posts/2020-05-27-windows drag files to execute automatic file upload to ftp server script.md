@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Windows 拖动文件执行自动上传文件到ftp服务器脚本
-subtitle:   
-date:   2020-05-27
+description:
+date: 2020-05-27
 author: hjp
-header-img: img/post-bg-ioses.jpg
-catalog: true
+image: /img/post-bg-ioses.jpg
+toc: true
 tags:
 - 
 ---

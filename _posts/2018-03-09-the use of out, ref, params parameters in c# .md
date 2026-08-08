@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      C#中传值/输出/引用/数组具名/可选参数/拓展方法的使用
-subtitle:   C#中out、ref、params参数的使用
+description: C#中out、ref、params参数的使用
 date:       2017-09-25
 author:     JP
-header-img: img/post-bg-debug.png
-catalog: true
+image: /img/post-bg-debug.png
+toc: true
 tags:
     
 ---

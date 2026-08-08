@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      Git指令整理
-subtitle:   不适合阅读的整理的一些个人常用的 Git 指令
+description: 不适合阅读的整理的一些个人常用的 Git 指令
 date:       2017-02-15
 author:     BY、JP
-header-img: img/post-bg-ios9-web.jpg
-catalog: true
+image: /img/post-bg-ios9-web.jpg
+toc: true
 tags:
     - Git
 ---

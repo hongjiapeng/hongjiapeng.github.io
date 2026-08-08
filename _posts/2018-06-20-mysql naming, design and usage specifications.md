@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      MySQL命名、设计及使用规范
-subtitle:   
-date:       2018-06-20
+description:
+date: 2018-06-20
 author:     JP
-header-img: img/post-bg-debug.png
-catalog: true
+image: /img/post-bg-debug.png
+toc: true
 tags:
     - MySQL
 ---
@@ -145,13 +145,3 @@ tags:
 
 1. [MySQL数据库命名规范及约定](https://blog.csdn.net/sinat_29519243/article/details/70187040)<br>
 2. [MySQL命名、设计及使用规范](https://www.biaodianfu.com/mysql-best-practices.html)<br>
-
-
-
-
-
-
-
-
-
-

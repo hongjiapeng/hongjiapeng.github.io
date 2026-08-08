@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 4月早读
-subtitle:   早读原文
+description: 早读原文
 date:   2002-04-05
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - 英语早读
 

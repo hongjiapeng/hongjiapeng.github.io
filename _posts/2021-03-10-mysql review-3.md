@@ -1,11 +1,11 @@
 ---
 layout: post
 title: MySQL复习宝典-3
-subtitle:   
-date:   2020-03-10
+description:
+date: 2020-03-10
 author: JP
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+image: /img/post-bg-coffee.jpeg
+toc: true
 tags:
 - 面试题
 - MySQL
@@ -114,4 +114,3 @@ delete可以返回受影响的行数
 
 5.truncate不可以回滚
 delete可以回滚
-

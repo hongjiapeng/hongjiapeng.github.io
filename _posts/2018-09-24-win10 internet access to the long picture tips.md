@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      Win10上网截长图小技巧
-subtitle:   
-date:       2018-09-24
+description:
+date: 2018-09-24
 author:     JP
-header-img: img/post-bg-kuaidi.jpg
-catalog: true
+image: /img/post-bg-kuaidi.jpg
+toc: true
 tags:
 
     
@@ -32,8 +32,3 @@ tags:
 
 4、现在你可以打开你的画图板，按Ctrl+V就可以粘贴，保存了
 ![](http://peng-image.oss-cn-beijing.aliyuncs.com/18-9-24/57292898.jpg)
-
-
-
-
-
