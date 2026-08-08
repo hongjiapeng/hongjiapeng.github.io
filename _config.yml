@@ -26,8 +26,8 @@ social:
   links:
     - https://github.com/hongjiapeng
 
-# Sidebar avatar. The image is kept from the previous blog.
-avatar: /img/avatar_m.jpg
+# Sidebar avatar.
+avatar: https://avatars.githubusercontent.com/u/26671281?v=4
 
 # Follow the visitor's system preference and allow manual light/dark switching.
 theme_mode:
